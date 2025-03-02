@@ -22,10 +22,4 @@ I'm a Front-end Developer and content creator building my version of the digital
 ![allvintageisack's Stats](https://github-readme-stats.vercel.app/api?username=allvintageisack&theme=dark&show_icons=true&hide_border=true&count_private=true)
 
 
-### About Me
-<details>
- <summary><h3>👨‍💻 Isack's Coding Journey</h3></summary>
-   I am Isack, a dedicated and passionate Software Engineer specializing in Frontend Web Development. With skills in React, JavaScript, HTML, and WordPress, I excel at bringing ideas to life through code. As a Frontend Software Engineer, I thrive on creating solutions to real-world problems, always aiming to build scalable and high-quality products or services that positively impact the community.
-   My coding journey began as a naive computer science student eager to learn everything about programming, from UNIX and Linux to software development theory. I started my learning at Moringa School, then advanced to St. Paul's University to pursue a degree in Computer Science.
-   In addition to my academic journey, I am also a media manager at Angular Kenya and a content creator for my own Instagram page. I am driven by a strong desire to make a difference through technology and actively seek opportunities that challenge me to grow and allow me to contribute to meaningful projects.
 
