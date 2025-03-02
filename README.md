@@ -1,4 +1,4 @@
-# 🏄‍♂️ Isack Ouma Mwangasu
+#  Isack Ouma Mwangasu
 
 **`Digital Craftsman (Developer/Filmmaker/Creator)`**
 
