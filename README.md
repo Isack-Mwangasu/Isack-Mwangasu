@@ -19,7 +19,15 @@ I'm a Front-end Developer and content creator building my version of the digital
 
 ### 📊 Stats
 
-![allvintageisack's Stats](https://github-readme-stats.vercel.app/api?username=allvintageisack&theme=dark&show_icons=true&hide_border=true&count_private=true)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Isack-Mwangasu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Isack-Mwangasu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Isack-Mwangasu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+[![](https://visitcount.itsvg.in/api?id=Isack-Mwangasu&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 
