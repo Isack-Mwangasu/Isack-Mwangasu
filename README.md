@@ -1,32 +1,25 @@
-#  Isack Ouma Mwangasu
+# Isack Ouma Mwangasu 🇰🇪
+Digital Craftsman | Full-stack Developer | Filmmaker
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+I am a Computer Science student at St. Paul's University building the digital world through clean code and cinematic storytelling. I specialize in creating functional web applications from the ground up and producing high-end visual content.
 
-I'm a Front-end Developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content both on my Instagram & Tiktok.
+🚀 What I'm working on:
+Final Year Project: Developing a Campus Event Management System for SPU.
 
+Industrial Attachment: Preparing for my professional placement (April - August 2026).
 
+Cross-Platform: Building mobile experiences using Flutter.
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/isak.co.ke/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isack-mwangasu?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pin.it/pB3j2XdLg) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://www.tiktok.com/@isak.co.ke) 
-### 🧰 Languages and Tools
+🧰 Languages and Tools
+Frontend & Mobile <img align="left" alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="padding-right:10px;" /> <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="padding-right:10px;" /> <img align="left" alt="Tailwind" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;" /> <img align="left" alt="Angular" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" style="padding-right:10px;" /> <img align="left" alt="Flutter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flutter/flutter-original.svg" style="padding-right:10px;" /> <br /><br />
 
-<img align="left" alt="Angular" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-plain.svg" />
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
-<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<br />
+Backend & Tools <img align="left" alt="Supabase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" style="padding-right:10px;" /> <img align="left" alt="Python" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" style="padding-right:10px;" /> <img align="left" alt="Git" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="padding-right:10px;" /> <img align="left" alt="Linux" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" style="padding-right:10px;" /> <br /><br />
 
-### 📊 Stats
+📊 Stats
+📫 Connect with me:
+Why this version is better:
+Highlights Education: Mentions your SPU background and your upcoming attachment, which is crucial for recruiters.
 
-![](https://github-readme-stats.vercel.app/api?username=Isack-Mwangasu&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Isack-Mwangasu&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Isack-Mwangasu&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+Updated Tech: Adds icons for Tailwind CSS, Supabase, and Flutter, showing you are currently upskilling.
 
----
-[![](https://visitcount.itsvg.in/api?id=Isack-Mwangasu&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-
-
+Better Structure: Groups your tools so it's easier to read at a glance.
