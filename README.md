@@ -17,16 +17,14 @@ I’m a dev who likes to know how things work under the hood. I take projects fr
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/isack-mwangasu?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app) 
 
 ### 🧰 Languages and Tools
+Web Development (Core & Styling) <img align="left" alt="HTML5" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" /> <img align="left" alt="CSS3" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="padding-right:10px;" /> <img align="left" alt="JavaScript" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" style="padding-right:10px;" /> <img align="left" alt="Bootstrap" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" style="padding-right:10px;" /> <img align="left" alt="Tailwind" width="30px" src="https://cdn.jsdelivr.net/gh/devicons@latest/icons/tailwindcss/tailwindcss-original.svg" style="padding-right:10px;" /> <br /><br />
+
+Backend & Object-Oriented Programming (Current Focus) <img align="left" alt="Java" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="padding-right:10px;" /> <img align="left" alt="PHP" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" style="padding-right:10px;" /> <img align="left" alt="Supabase" width="30px" src="https://cdn.jsdelivr.net/gh/devicons@latest/icons/supabase/supabase-original.svg" style="padding-right:10px;" /> <br /><br />
+
+Mobile Development <img align="left" alt="Dart" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dart/dart-original.svg" style="padding-right:10px;" /> <img align="left" alt="Flutter" width="30px" src="https://cdn.jsdelivr.net/gh/devicons@latest/icons/flutter/flutter-original.svg" style="padding-right:10px;" /> <br /><br />
 
 
 
-<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-
-<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-
-<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-
-<br />
 
 
 
