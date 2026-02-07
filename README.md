@@ -2,11 +2,11 @@
 
 
 
-**`Digital Craftsman (Developer/Filmmaker/Creator)`**
+**`Developer`**
 
 
 
-I'm a Front-end Developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content both on my Instagram & Tiktok.
+I’m a dev who likes to know how things work under the hood. I take projects from a blank screen to a finished deployment, handling everything from the frontend design to database management. I don't just write code; I build the tools that solve real problems.
 
 
 
